@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/anandmunjuluri" target="blank"><img src="https://img.shields.io/twitter/follow/anandmunjuluri?logo=twitter&style=for-the-badge" alt="anandmunjuluri" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning **Full Stack Web Development,DSA**
+- 🌱 I’m currently learning **Cloud Native Technologies,DSA**
 
 - 👯 I’m looking to collaborate on **Youtube**
 
