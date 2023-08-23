@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anand Munjuluri</h1>
 <h3 align="center">A passionate learner from India</h3>
-
+<div>
+  <a href="https://github.com/Anand-Munjuluri/github-readme-stats" style="float: left;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danyalejaz&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/Anand-Munjuluri/convoychat" style="float: right;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyalejaz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  </a>
+</div>
 <p align="left"> <a href="https://twitter.com/anandmunjuluri" target="blank"><img src="https://img.shields.io/twitter/follow/anandmunjuluri?logo=twitter&style=for-the-badge" alt="anandmunjuluri" /></a> </p>
 
 - 🔭 I’m currently working on **Devops**
