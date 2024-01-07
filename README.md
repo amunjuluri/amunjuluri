@@ -7,15 +7,11 @@
 </div>
 <p align="left"> <a href="https://twitter.com/devneophyt3" target="blank"><img src="https://img.shields.io/twitter/follow/anandmunjuluri?logo=twitter&style=for-the-badge" alt="anandmunjuluri" /></a> </p>
 
-- 🔭 I’m currently working on **Devops**
-
-- 🌱 I’m currently learning **Cloud Native Technologies,DSA**
-
-- 👯 I’m looking to collaborate on **Youtube**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🤝 I’m looking for help with **Devops**
 
-- 📫 How to reach me **munjulurianand@gmail.com**
+- 📫 Reach me via **munjulurianand@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
