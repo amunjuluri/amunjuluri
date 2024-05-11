@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Munjuluri</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A boring dev</h3>
 <div>
   <a href="https://github.com/Anand-Munjuluri/github-readme-stats" style="float: left;">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anand-Munjuluri&show_icons=true&theme=transparent" />
