@@ -2,7 +2,6 @@
 I am a Full Stack Web developer and I like to build products for fun!
 
 - 🌐 Message me at [munjulurianand@gmail.com](mailto:munjulurianand@gmail.com) for more information and to get in touch.
-- ✍️ Follow me on [X](https://x.com/anandmunjuluri).
 
 ---
 
