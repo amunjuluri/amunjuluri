@@ -1,11 +1,7 @@
-# Hi 👋 I am Anand! 
-I am a Full Stack Web developer and I like to build products for fun!
+# Anand Munjuluri
 
-- 🌐 Message me at [munjulurianand@gmail.com](mailto:munjulurianand@gmail.com) for more information and to get in touch.
+Software Engineer focused on building reliable and scalable web applications.
 
----
+Currently working across the stack with **TypeScript, React, Next.js, Node.js, and PostgreSQL**.
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amunjuluri&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
-</p>
+Interested in **full-stack engineering, backend systems, and applied AI**.
